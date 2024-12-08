@@ -2,6 +2,13 @@
 free macsploit test
 
 i dont expect this to fully work
+
+Non-Edited raw: https://raw.githubusercontent.com/PHATIDIOT/newautomacsploit/refs/heads/main/normal.sh
+
+non-edited terminal:
+
+cd ~/ && curl -s "https://raw.githubusercontent.com/PHATIDIOT/newautomacsploit/refs/heads/main/normal.sh" | bash 
+
  
   
  test1 raw: https://raw.githubusercontent.com/PHATIDIOT/newautomacsploit/main/crackedsploit.sh
